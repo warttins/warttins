@@ -5,6 +5,7 @@ I'm Diogo Martins!
 - :seedling: I'm currently learning about front-end, software enginnering and english aswell.
 - :muscle: Software engineering undergraduate
 - :leaves: Beginner mindset (open to learning)
+- :heart: Family
 
 
 #### :mailbox: How to reach me
